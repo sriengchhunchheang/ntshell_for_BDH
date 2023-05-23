@@ -1,6 +1,5 @@
 # NT-Shell for BDH-Shell
-https://img.shields.io/github/repo-size/sriengchhunchheang/ntshell_for_BDH
-
+[![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/sriengchhunchheang/ntshell_for_BDH)]([url-to-point-to](https://github.com/sriengchhunchheang/ntshell_for_BDH))
 
 
 
